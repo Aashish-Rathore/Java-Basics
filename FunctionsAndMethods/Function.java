@@ -1,3 +1,4 @@
+package FunctionsAndMethods;
 import java.util.Scanner;
 
 public class Function {
