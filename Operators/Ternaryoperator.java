@@ -1,3 +1,4 @@
+package Operators;
 import java.util.*;
 
 public class Ternaryoperator {

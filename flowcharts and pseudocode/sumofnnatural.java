@@ -1,3 +1,4 @@
+
 import java.util .*;
 public class sumofnnatural {
     public static void main(String[] args) {

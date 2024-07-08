@@ -1,3 +1,5 @@
+
+
 import java.util.Scanner;
 
 public class LoopQue {
@@ -24,7 +26,7 @@ public class LoopQue {
 
         // Question 4
         System.out.print("enter the number: ");
-        int n=sc.nextInt();
+        // int n=sc.nextInt();
         int i=1;
        while(i<=10){
         System.out.println(i*n);
