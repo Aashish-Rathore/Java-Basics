@@ -1,3 +1,4 @@
+
 public class SolidRhom {
     public static void Solid_Rhom(int n){
         for(int i=1 ; i<=n; i++){
