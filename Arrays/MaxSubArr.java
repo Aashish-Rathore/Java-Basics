@@ -1,6 +1,6 @@
 package Arrays;
 
-import Loops.sqrpattern;
+
 
 public class MaxSubArr {
 
